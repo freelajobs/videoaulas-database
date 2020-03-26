@@ -1,0 +1,1 @@
+{"data":{"card":[],"idUser":"","idModel":"","priceHour":"","totalHours":"","services":[],"totalPrice":"","location":"","dataPurchase ":"","dataSchendule":"","hourSchendule":"","purchaseDate":"2019-01-02 21:51:28"}}

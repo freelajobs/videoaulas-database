@@ -1,0 +1,7 @@
+
+ Requisition: GET
+ type: 
+ mail: rodrigoazurex@gmail.com
+ password: 123456
+ imei: 
+ response: {"status":true,"error":null,"data":{"id":"1","mail":"rodrigoazurex@gmail.com","nick":"Azure","first_name":"Rodrigo","last_name":"Pimentel","phone":"+(41) 3669-8252","age":"30","address":"Getulio Vargas 729,Vila Am\u00e9lia, Pinhais","password":"123456","gender":"male","cpf":"075.287.099-80","urlDocument":"http:\/\/database.redwindow.com.br\/images\/documents\/cpf_identify_1.png","urlPicture":"http:\/\/database.redwindow.com.br\/images\/client\/profile_identify_1.png","login":"rodrigoazurex@gmail.com","signature":[],"services":["Hora","Oral","Beijo na Boca","Anal","Fantasias","Beijo Grego","Invers\u00e3o","Massagem","Striptease","Posi\u00e7\u00e3o 69","Oral sem preservativo","Acess\u00f3rios","Casal","Homosexual","Feitiche","Preservativo","Banho Dourado","Podolatria","Domina\u00e7\u00e3o","Pompoarismo"],"categories":["Homem","Mulher","Transexual"]}}

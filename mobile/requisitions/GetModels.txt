@@ -1,0 +1,5 @@
+
+ Post: 
+{"type":"app","page":"0","filter":[{"categories":""},{"types":"Sexo Anal"},{"ratting":"3.5"},{"distance":"13"},{"max_age":"31"},{"min_age":"18"},{"max_price":"50"},{"min_price":"301"},{"favorited":"False"}]}
+ Responde: 
+{"status":true,"error":null,"data":[{"id":"1","image":"http:\/\/database.redwindow.com.br\/images\/partners_app\/partner_1_img_1.jpeg","nick":"Keilinda ","age":"30","gender":"female","rate":"5","categories":"2","address":"R. Jos\u00e9 de Alen\u00e7ar, 28 - Vargem Grande, Pinhais - PR, 83321-230, Brasil","latitude":"-25.451747","longitude":"-49.153000","services":["Oral","Beijo na Boca","Anal","Fantasias"],"price":"320.00"}],"page":{"number":1,"total":"1"}}

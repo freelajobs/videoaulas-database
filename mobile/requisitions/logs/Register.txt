@@ -1,0 +1,1 @@
+{"data":{"login":"","nick":"","name":"","last_name":"","phone":"","cpf":"","age":"","address":"","password":"","gender":"","image":null}}
